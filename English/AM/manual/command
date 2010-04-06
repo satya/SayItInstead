@@ -1,0 +1,2 @@
+julius -quiet -input mic -smpFreq 48000 -nlr /home/skomarag/Desktop/LM/words/bigram_model -nrl /home/skomarag/Desktop/LM2/words/reverse_trigram_model -h /home/skomarag/voxforge/manual/hmm15/hmmdefs -hlist /home/skomarag/voxforge/manual/tiedlist -v /home/skomarag/voxforge/manual/dict
+

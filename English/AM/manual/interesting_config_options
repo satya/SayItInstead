@@ -1,0 +1,32 @@
+    [-quiet]            reduce output to only word string
+
+ Speech Input:
+    [-input devname]    speech input from:                    (mfcfile)
+            mfcfile       HTK parameter file
+            (raw inputs below allowed for MFCC_{0|E}_D[_N]_Z AM only)
+            rawfile       wave file (16bit,mono,linear)
+                          supported file types:
+                            RAW(BE),WAV
+            mic           microphone device
+            adinnet     adinnet client (TCP/IP)
+            stdin       standard input
+
+    [-smpFreq freq]     sample period (Hz)                    (16000)
+
+    -d file.bingram     n-gram file name in Julius binary format
+    -nlr file.arpa      2-gram file name in ARPA format
+    -nrl file.arpa      reverse 3-gram file name in ARPA format
+
+    -h hmmdefsfile      HMM definition file name
+    [-hlist HMMlistfile] HMMlist filename (must for triphone model)
+
+    -v dictfile         dictionary file name
+
+ Output:
+    [-result devname]   output recognition result to:         (tty)
+             tty        plain text to standard out
+             msock      module socket
+
+ Server Module Mode:
+    [-module [port]]    enable server module mode             (10500)
+                        (implies "-result msock")

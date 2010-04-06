@@ -1,0 +1,474 @@
+fragment size = 1024 bytes (10 msec)
+ 0.000000e+00 0.000000e+00 1.000000e+00
+ 0.000000e+00 1.000000e+00 0.000000e+00
+ 0.000000e+00 0.000000e+00 0.000000e+00
+////// Missing phones:
+*-aa+sp or biphone aa+sp
+*-ah+sp or biphone ah+sp
+*-ax+sp or biphone ax+sp
+*-ay+sp or biphone ay+sp
+*-iy+sp or biphone iy+sp
+*-ow+sp or biphone ow+sp
+*-uw+sp or biphone uw+sp
+aa-b+sp
+aa-ch+sp
+aa-d+sp
+aa-dh+sp
+aa-f+sp
+aa-k+sp
+aa-m+sp
+aa-n+sp
+aa-p+sp
+aa-r+sp
+aa-s+sp
+aa-sp+* or biphone aa-sp
+aa-t+sp
+ae-b+sp
+ae-ch+sp
+ae-d+sp
+ae-f+sp
+ae-g+sp
+ae-k+sp
+ae-l+sp
+ae-m+sp
+ae-n+sp
+ae-ng+sp
+ae-p+sp
+ae-s+sp
+ae-sh+sp
+ae-sp+* or biphone ae-sp
+ae-t+sp
+ae-th+sp
+ae-v+sp
+ae-z+sp
+ah-b+sp
+ah-ch+sp
+ah-f+sp
+ah-g+sp
+ah-hh+sp
+ah-jh+sp
+ah-k+sp
+ah-l+sp
+ah-m+sp
+ah-n+sp
+ah-ng+sp
+ah-p+sp
+ah-r+sp
+ah-s+sp
+ah-sh+sp
+ah-sp+* or biphone ah-sp
+ah-t+sp
+ah-v+sp
+ah-z+sp
+ao-f+sp
+ao-g+sp
+ao-k+sp
+ao-l+sp
+ao-n+sp
+ao-ng+sp
+ao-s+sp
+ao-sh+sp
+ao-sp+* or biphone ao-sp
+ao-t+sp
+ao-z+sp
+aw-ch+sp
+aw-d+sp
+aw-dh+sp
+aw-er+sp
+aw-n+sp
+aw-s+sp
+aw-sp+* or biphone aw-sp
+aw-t+sp
+aw-z+sp
+ax-k+sp
+ax-l+sp
+ax-m+sp
+ax-n+sp
+ax-p+sp
+ax-r+sp
+ax-s+sp
+ax-sp+* or biphone ax-sp
+ax-z+sp
+ay-aa+sp
+ay-b+sp
+ay-d+sp
+ay-f+sp
+ay-k+sp
+ay-l+sp
+ay-m+sp
+ay-n+sp
+ay-p+sp
+ay-r+sp
+ay-s+sp
+ay-sp+* or biphone ay-sp
+ay-t+sp
+ay-v+sp
+ay-z+sp
+b-aa+sp
+b-aw+sp
+b-ax+sp
+b-ay+sp
+b-d+sp
+b-er+sp
+b-iy+sp
+b-ow+sp
+b-oy+sp
+b-sp+* or biphone b-sp
+b-uw+sp
+b-z+sp
+ch-d+sp
+ch-er+sp
+ch-sp+* or biphone ch-sp
+ch-t+sp
+ch-uw+sp
+d-aa+sp
+d-ay+sp
+d-en+sp
+d-er+sp
+d-ey+sp
+d-iy+sp
+d-ow+sp
+d-s+sp
+d-sp+* or biphone d-sp
+d-uw+sp
+d-z+sp
+dh-aa+sp
+dh-ah+sp
+dh-d+sp
+dh-er+sp
+dh-ey+sp
+dh-iy+sp
+dh-ow+sp
+dh-sp+* or biphone dh-sp
+dh-z+sp
+eh-b+sp
+eh-ch+sp
+eh-d+sp
+eh-er+sp
+eh-f+sp
+eh-jh+sp
+eh-k+sp
+eh-l+sp
+eh-m+sp
+eh-n+sp
+eh-p+sp
+eh-r+sp
+eh-s+sp
+eh-sh+sp
+eh-t+sp
+eh-z+sp
+el-sp+* or biphone el-sp
+el-z+sp
+en-d+sp
+en-sp+* or biphone en-sp
+en-t+sp
+en-z+sp
+er-ch+sp
+er-d+sp
+er-er+sp
+er-iy+sp
+er-k+sp
+er-l+sp
+er-m+sp
+er-n+sp
+er-s+sp
+er-sp+* or biphone er-sp
+er-t+sp
+er-th+sp
+er-z+sp
+ey-d+sp
+ey-f+sp
+ey-jh+sp
+ey-k+sp
+ey-l+sp
+ey-m+sp
+ey-n+sp
+ey-p+sp
+ey-r+sp
+ey-s+sp
+ey-sp+* or biphone ey-sp
+ey-t+sp
+ey-v+sp
+ey-z+sp
+f-ay+sp
+f-d+sp
+f-er+sp
+f-iy+sp
+f-s+sp
+f-sp+* or biphone f-sp
+f-t+sp
+f-th+sp
+g-d+sp
+g-er+sp
+g-ey+sp
+g-l+sp
+g-ow+sp
+g-sp+* or biphone g-sp
+g-uw+sp
+g-z+sp
+hh-aa+sp
+hh-aw+sp
+hh-ay+sp
+hh-er+sp
+hh-ey+sp
+hh-iy+sp
+hh-ow+sp
+hh-sp+* or biphone hh-sp
+hh-uw+sp
+ih-aa+sp
+ih-ch+sp
+ih-d+sp
+ih-dh+sp
+ih-er+sp
+ih-f+sp
+ih-g+sp
+ih-jh+sp
+ih-k+sp
+ih-l+sp
+ih-m+sp
+ih-n+sp
+ih-ng+d
+ih-ng+sp
+ih-ow+sp
+ih-p+sp
+ih-r+sp
+ih-s+sp
+ih-sh+sp
+ih-t+sp
+ih-v+sp
+ih-z+sp
+iy-aa+sp
+iy-ax+sp
+iy-ay+sp
+iy-ch+sp
+iy-d+sp
+iy-dh+sp
+iy-er+sp
+iy-f+sp
+iy-k+sp
+iy-l+sp
+iy-m+sp
+iy-n+sp
+iy-p+sp
+iy-r+sp
+iy-s+sp
+iy-sp+* or biphone iy-sp
+iy-t+sp
+iy-th+sp
+iy-v+sp
+iy-z+sp
+jh-aa+sp
+jh-d+sp
+jh-er+sp
+jh-ey+sp
+jh-oy+sp
+jh-sp+* or biphone jh-sp
+k-aa+sp
+k-aw+sp
+k-ay+sp
+k-d+sp
+k-er+sp
+k-iy+sp
+k-l+sp
+k-ow+sp
+k-r+sp
+k-s+sp
+k-sp+* or biphone k-sp
+k-t+sp
+k-th+sp
+k-uw+sp
+k-z+sp
+l-aa+sp
+l-ao+sp
+l-ax+sp
+l-ay+sp
+l-d+sp
+l-er+sp
+l-ey+sp
+l-f+sp
+l-iy+sp
+l-k+sp
+l-ow+sp
+l-p+sp
+l-s+sp
+l-sp+* or biphone l-sp
+l-t+sp
+l-uw+sp
+l-v+sp
+l-z+sp
+m-aa+sp
+m-ax+sp
+m-ay+sp
+m-d+sp
+m-er+sp
+m-ey+sp
+m-f+sp
+m-iy+sp
+m-p+sp
+m-sp+* or biphone m-sp
+m-z+sp
+n-aa+sp
+n-aw+sp
+n-ax+sp
+n-ch+sp
+n-d+sp
+n-er+sp
+n-g+sp
+n-iy+sp
+n-jh+sp
+n-k+sp
+n-ow+sp
+n-s+sp
+n-sp+* or biphone n-sp
+n-t+sp
+n-th+sp
+n-uw+sp
+n-z+sp
+ng-d+ax
+ng-er+sp
+ng-iy+sp
+ng-k+sp
+ng-l+sp
+ng-ow+sp
+ng-sp+* or biphone ng-sp
+ng-z+sp
+ow-d+sp
+ow-er+sp
+ow-hh+sp
+ow-k+sp
+ow-l+sp
+ow-m+sp
+ow-n+sp
+ow-p+sp
+ow-r+sp
+ow-s+sp
+ow-sh+sp
+ow-sp+* or biphone ow-sp
+ow-t+sp
+ow-th+sp
+ow-v+sp
+ow-z+sp
+oy-d+sp
+oy-l+sp
+oy-n+sp
+oy-s+sp
+oy-sp+* or biphone oy-sp
+oy-z+sp
+p-ao+sp
+p-ax+sp
+p-d+sp
+p-el+sp
+p-er+sp
+p-ey+sp
+p-iy+sp
+p-l+sp
+p-s+sp
+p-sp+* or biphone p-sp
+p-t+sp
+p-uh+sp
+p-uw+sp
+r-ao+sp
+r-aw+sp
+r-ax+sp
+r-ay+sp
+r-d+sp
+r-er+sp
+r-ey+sp
+r-iy+sp
+r-jh+sp
+r-k+sp
+r-m+sp
+r-n+sp
+r-ow+sp
+r-oy+sp
+r-s+sp
+r-sh+sp
+r-sp+* or biphone r-sp
+r-t+sp
+r-uw+sp
+r-v+sp
+r-z+sp
+s-ao+sp
+s-d+sp
+s-er+sp
+s-ey+sp
+s-iy+sp
+s-k+sp
+s-n+sp
+s-ow+sp
+s-r+sp
+s-sp+* or biphone s-sp
+s-t+sp
+s-th+sp
+s-uw+sp
+sh-aa+sp
+sh-d+sp
+sh-ey+sp
+sh-iy+sp
+sh-n+sp
+sh-ow+sp
+sh-sp+* or biphone sh-sp
+sh-t+sp
+sh-uw+sp
+t-aa+sp
+t-ax+sp
+t-ay+sp
+t-d+sp
+t-en+sp
+t-er+sp
+t-ey+sp
+t-iy+sp
+t-ow+sp
+t-s+sp
+t-sp+* or biphone t-sp
+t-th+sp
+t-uw+sp
+th-aa+sp
+th-iy+sp
+th-s+sp
+th-sp+* or biphone th-sp
+uh-d+sp
+uh-f+sp
+uh-k+sp
+uh-l+sp
+uh-r+sp
+uh-sh+sp
+uh-sp+* or biphone uh-sp
+uh-t+sp
+uw-d+sp
+uw-iy+sp
+uw-jh+sp
+uw-l+sp
+uw-m+sp
+uw-n+sp
+uw-p+sp
+uw-r+sp
+uw-s+sp
+uw-sp+* or biphone uw-sp
+uw-t+sp
+uw-th+sp
+uw-v+sp
+uw-z+sp
+v-d+sp
+v-er+sp
+v-ey+sp
+v-iy+sp
+v-ow+sp
+v-sp+* or biphone v-sp
+v-z+sp
+w-aw+sp
+w-ay+sp
+w-er+sp
+w-ey+sp
+w-iy+sp
+w-uw+sp
+y-ae+sp
+y-ax+sp
+y-uw+sp
+z-d+sp
+z-er+sp
+z-iy+sp
+z-sp+* or biphone z-sp
+z-uw+sp
+zh-er+sp
+//////////////////////

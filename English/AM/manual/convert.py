@@ -1,0 +1,8 @@
+#! /usr/bin/python
+
+import os
+
+for i in range(0,2086):
+    string = "ffmpeg -y -i /NotBackedUp/wav/sample" + str(i) + ".wav -ar 48000 ../train/wav/sample"+ str(i) + ".wav"
+    os.system(string)
+
